@@ -2,12 +2,14 @@
 <h3 align="center">A versatile professional with expertise in both web development and cybersecurity. Proficient in designing and developing user-friendly websites while ensuring their security against cyber threats. Skilled in implementing secure coding practices, conducting vulnerability assessments, and developing robust security systems to protect web applications from breaches.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mohamed-adel&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mohamed-adel" /> </p>
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-mohamed-adel" alt="dev-mohamed-adel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
