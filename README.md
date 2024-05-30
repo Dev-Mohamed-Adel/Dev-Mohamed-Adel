@@ -2,7 +2,6 @@
 <h3 align="center">A versatile professional with expertise in both web development and cybersecurity. Proficient in designing and developing user-friendly websites while ensuring their security against cyber threats. Skilled in implementing secure coding practices, conducting vulnerability assessments, and developing robust security systems to protect web applications from breaches.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mohamed-adel&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mohamed-adel" /> </p>
-### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
